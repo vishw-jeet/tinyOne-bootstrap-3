@@ -1,0 +1,83 @@
+/* ..................................... hero-section start.......................................*/
+.hero-section{
+    background-color: var(--color-pri-);
+    padding: 60px 0 105px;
+}
+.hero-section .navbar{
+    margin-bottom: 55px;
+}
+.hero-section .navbar-brand {
+    padding: 0;
+}
+.hero-section .navbar-nav>li>a {
+    color: var(--text-color-pri-);
+    margin-left: 70px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.pri-Headding {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--text-color-pri-);
+    margin-bottom:25px;
+}
+.sec-Headding {
+    font-size: 20px;
+    color: var(--text-color-sec-);
+    margin-bottom:25px;
+    
+}
+.para-info {
+    font-size: 16px;
+    color: var(--para-color-);
+    margin-bottom: 40px;
+}
+.icon-list i{
+    font-size: 40px;
+    color: var(--text-color-pri-);
+    margin-right: 35px;
+    display: inline-block;
+}
+/* .................................Features-section start......................... */
+
+.Features-section{
+    padding-top: 115px;
+    padding-bottom: 70px;
+    color: var(--color-white-);
+    text-align: center;
+}
+.features-header{
+    margin-bottom: 65px;
+}
+.Features-section .pri-Headding{
+    font-size: 22px;
+}
+
+.Features-section .para-info{
+    font-size: 16px;
+    color: var( --para-sec-color-);
+}
+.Features-section i {
+    color: var(--text-color-pri-);
+    font-size: 40px;
+}
+
+ .thumbnil h4{
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+ .thumbnil .para-info{
+    margin-bottom: 85px;
+}
+/* ..............................................footer section start  ............................*/
+
+.footer-section{
+    background-color: var(--color-dark-);
+    text-align: center;
+}
+.footer-section .pri-Headding {
+    color: var(--color-pri-);
+}
+.footer-section .sec-Headding{
+
+}
